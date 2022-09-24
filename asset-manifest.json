@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/online-store/static/css/main.f7a36ed1.chunk.css",
+    "main.js": "/online-store/static/js/main.41cf2922.chunk.js",
+    "main.js.map": "/online-store/static/js/main.41cf2922.chunk.js.map",
+    "runtime-main.js": "/online-store/static/js/runtime-main.a451c0e5.js",
+    "runtime-main.js.map": "/online-store/static/js/runtime-main.a451c0e5.js.map",
+    "static/js/2.3fe620aa.chunk.js": "/online-store/static/js/2.3fe620aa.chunk.js",
+    "static/js/2.3fe620aa.chunk.js.map": "/online-store/static/js/2.3fe620aa.chunk.js.map",
+    "index.html": "/online-store/index.html",
+    "precache-manifest.01b981565df7c6f60bbfb590fac4b63c.js": "/online-store/precache-manifest.01b981565df7c6f60bbfb590fac4b63c.js",
+    "service-worker.js": "/online-store/service-worker.js",
+    "static/css/main.f7a36ed1.chunk.css.map": "/online-store/static/css/main.f7a36ed1.chunk.css.map",
+    "static/js/2.3fe620aa.chunk.js.LICENSE.txt": "/online-store/static/js/2.3fe620aa.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/online-store/static/media/star-solid.c2366c03.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a451c0e5.js",
+    "static/js/2.3fe620aa.chunk.js",
+    "static/css/main.f7a36ed1.chunk.css",
+    "static/js/main.41cf2922.chunk.js"
+  ]
+}
