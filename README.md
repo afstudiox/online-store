@@ -5,15 +5,42 @@ Aplicação de uma versão simplificada e sem persistência no banco de dados a 
 [Teste a aplicação aqui](https://afstudiox.github.io/online-store)
 
 ## Observações
- 
+- Buscar produtos por termos e categorias a partir da API do Mercado Livre;
+- Interagir com os produtos buscados de modo a adicioná-los e removê-los de um carrinho de compras em diferentes quantidades;
+- Visualizar detalhes e avaliações prévias de um produto, bem como criar novas avaliações;
+- E por fim, finalizar a compra (simulada) dos itens selecionados.
 
 
 ## Habilidades
-
-
+- Entender o que são Métodos Ágeis
+- Entender o que é Kanban
+- Entender o que é Scrum
+- Trabalhar em equipes utilizando Kanban ou Scrum de maneira eficaz
+- Praticar todas as habilidades desenvolvidas até agora no módulo de Front-End
 
 ## Desafios
-- [ ] - 
+- [ ] - Implemente o módulo de acesso à api do Mercado Livre
+- [ ] - Crie uma página de listagem de produtos vazia
+- [ ] - Crie a página do carrinho de compras
+- [ ] - Liste as categorias de produtos disponíveis via API na página principal
+- [ ] - Liste os produtos buscados por termos, com os dados resumidos, associados a esses termos
+- [ ] - Selecione uma categoria e mostre somente os produtos daquela categoria
+- [ ] - Redirecione para uma tela com a exibição detalhada ao clicar na exibição resumida de um produto
+- [ ] - Adicione produtos a partir da tela de listagem de produtos
+- [ ] - Adicione um produto ao carrinho a partir de sua tela de exibição detalhada
+- [ ] - Visualize a lista de produtos adicionados ao carrinho em sua página e permita a manipulação da sua quantidade
+- [ ] - Avalie e comente acerca de um produto em sua tela de exibição detalhada
+- [ ] - Finalize a compra vendo um resumo dela, preenchendo os seus dados e escolhendo a forma de pagamento
+- [ ] - Mostre junto ao ícone do carrinho a quantidade de produtos dentro dele, em todas as telas em que ele aparece
+- [ ] - Limite a quantidade de produtos adicionados ao carrinho pela quantidade disponível em estoque
+- [ ] - Mostre quais produtos tem o frete grátis
+- [ ] - Faça um layout responsivo para o site
+- [ ] - Crie um seletor dropdown para ordenar a lista de produto por maior e menor preço
+- [ ] - Coloque uma animação no carrinho para quando um produto for adicionado
+- [ ] - Crie um slider lateral para exibir o carrinho na tela principal
+- [ ] - Destaque, na tela principal, os produtos já adicionados ao carrinho
+- [ ] - Impeça que a quantidade do produto seja negativa
+
 
 
 ## Stacks utilizadas
@@ -44,6 +71,6 @@ Aplicação de uma versão simplificada e sem persistência no banco de dados a 
 
 
 ## ©️ Direitos Autorais
-Este projeto foi desenvolvido para fins de aprendizado por [Andre Felipe dos Santos](https://www.linkedin.com/in/afelipes/). 
+Este projeto foi desenvolvido para fins de aprendizado por [Andre Felipe dos Santos](https://www.linkedin.com/in/afelipes/), [Jaqueline Santos](https://www.linkedin.com/in/jaquelineapsantos/), [Bruno Minelli](https://www.linkedin.com/in/obrunominelli/), [Vagner Britz](https://www.linkedin.com/in/vagner-britz-844b9b222/).
 É permitido baixar ou clonar o repositório para fins de estudo, porém não é permitida a publicação de cópias totais ou parciais do mesmo. 
 Esta isenção de responsabilidade não abrange bibliotecas e dependências, que estão sujeitas às suas respectivas licenças.
