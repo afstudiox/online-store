@@ -10,7 +10,7 @@ import ShoppingCart from './components/ShoppingCart';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={ process.env.PUBLIC_URL }>
       <Switch>
         <Route exact path="/product-details/:id" component={ ProductDetails } />
         <Route exact path="/checkout" component={ Checkout } />
